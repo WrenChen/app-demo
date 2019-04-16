@@ -6,10 +6,10 @@
         id        = "com.sheridan.imm.collective"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>DMBuddy</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Application to help DMs (Dungeon Masters) with map-making for the fantasy tabletop role-playing game Dungeons and Dragons.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
